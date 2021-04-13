@@ -1,0 +1,361 @@
+{
+    "token": "NzI3MjIwNzA4MTQ4NTExMjAz.XvorDw.tVVg_iVeZP-wej-nw3ZXrzQ19BI",
+    "wow_api_id": "3a8f87f6530e49509862298ab951fe4b",
+    "wow_api_secret": "skRgqDdKO13AcGnuC24fpeavdW9rAKSc",
+
+    "prefix": "?",
+    "bot_author": "xDonkey#9157",
+    "timezone": "America/New_York",
+
+    "link_channel": "character-links",
+    "role_update_channel": "role-updates",
+
+    "track_class": true,
+    "class_roles": [
+        {
+            "name": "Death_Knight",
+            "color": [196, 31, 39],
+            "position": 62
+        },
+        {
+            "name": "Demon_Hunter",
+            "color": [163, 48 , 201],
+            "position": 61
+        },
+        {
+            "name": "Druid",
+            "color": [225, 125, 0],
+            "position": 60
+        },
+        {
+            "name": "Hunter",
+            "color": [169, 210, 113],
+            "position": 59
+        },
+        {
+            "name": "Mage",
+            "color": [64, 199, 235],
+            "position": 58
+        },
+        {
+            "name": "Monk",
+            "color": [0, 255, 150],
+            "position": 57
+        },
+        {
+            "name": "Paladin",
+            "color": [245, 140, 186],
+            "position": 56
+        },
+        {
+            "name": "Priest",
+            "color": [255, 255, 255],
+            "position": 55
+        },
+        {
+            "name": "Rogue",
+            "color": [255, 245, 105],
+            "position": 54
+        }
+        ,{
+            "name": "Shaman",
+            "color": [0, 112, 222],
+            "position": 53
+        },
+        {
+            "name": "Warlock",
+            "color": [135, 135, 237],
+            "position": 52
+        },
+        {
+            "name": "Warrior",
+            "color": [199, 156, 110],
+            "position": 51
+        }
+    ],
+
+    "track_armor_type": true,
+    "armor_type_roles": [
+        {
+            "name": "Plate",
+            "color": [200, 200, 200],
+            "position": 50
+        },
+        {
+            "name": "Mail",
+            "color": [200, 200, 200],
+            "position": 49
+        },
+        {
+            "name": "Leather",
+            "color": [200, 200, 200],
+            "position": 48
+        },
+        {
+            "name": "Cloth",
+            "color": [200, 200, 200],
+            "position": 47
+        }
+    ],
+    "armor_types": {
+        "Death_Knight": "Plate",
+        "Demon_Hunter": "Leather",
+        "Druid": "Leather",
+        "Hunter": "Mail",
+        "Mage": "Cloth",
+        "Monk": "Leather",
+        "Paladin": "Plate",
+        "Priest": "Cloth",
+        "Rogue": "Leather",
+        "Shaman": "Mail",
+        "Warlock": "Cloth",
+        "Warrior": "Plate"
+    },
+
+    "track_mythic_plus": true,
+    "mythic_plus_roles": [
+        {
+            "name": "4.0k+ Raider IO",
+            "color": [251, 121, 48],
+            "position": 46
+        },
+        {
+            "name": "3.9k Raider IO",
+            "color": [222, 85, 149],
+            "position": 45
+        },
+         {
+            "name": "3.8k Raider IO",
+            "color": [220, 83, 154],
+            "position": 44
+        },
+         {
+            "name": "3.7k Raider IO",
+            "color": [218, 81, 159],
+            "position": 43
+        },
+        {
+            "name": "3.6k Raider IO",
+            "color": [215, 79, 165],
+            "position": 42
+        },
+        {
+            "name": "3.5k Raider IO",
+            "color": [212, 77, 170],
+            "position": 41
+        },
+        {
+            "name": "3.4k Raider IO",
+            "color": [210, 75, 175],
+            "position": 40
+        },
+        {
+            "name": "3.3k Raider IO",
+            "color": [207, 73, 180],
+            "position": 39
+        },
+        {
+            "name": "3.2k Raider IO",
+            "color": [204, 71, 185],
+            "position": 38
+        },
+        {
+            "name": "3.1k Raider IO",
+            "color": [201, 69, 190],
+            "position": 37
+        },
+        {
+            "name": "3.0k Raider IO",
+            "color": [197, 67, 196],
+            "position": 36
+        },
+        {
+            "name": "2.9k Raider IO",
+            "color": [194, 65, 201],
+            "position": 35
+        },
+        {
+            "name": "2.8k Raider IO",
+            "color": [190, 63, 206],
+            "position": 34
+        },
+        {
+            "name": "2.7k Raider IO",
+            "color": [186, 62, 211],
+            "position": 33
+        },
+        {
+            "name": "2.6k Raider IO",
+            "color": [182, 60, 216],
+            "position": 32
+        },
+        {
+            "name": "2.5k Raider IO",
+            "color": [178, 58, 221],
+            "position": 31
+        },
+        {
+            "name": "2.4k Raider IO",
+            "color": [173, 56, 228],
+            "position": 30
+        },
+        {
+            "name": "2.3k Raider IO",
+            "color": [168, 55, 233],
+            "position": 29
+        },
+        {
+            "name": "2.2k Raider IO",
+            "color": [163, 53, 238],
+            "position": 28
+        },
+         {
+            "name": "2.1k Raider IO",
+            "color": [151, 67, 236],
+            "position": 27
+        },
+        {
+            "name": "2.0k Raider IO",
+            "color": [128, 83, 232],
+            "position": 26
+        }
+    ],
+
+    "track_raid_progression": true,
+    "current_raid_tier": "nyalotha-the-waking-city",
+    "raid_progression_roles": [
+        {
+            "name": "12/12 M",
+            "color": [251, 121, 48],
+            "position": 25
+        },
+        {
+            "name": "11/12 M",
+            "color": [153, 44, 231],
+            "position": 24
+        },
+         {
+            "name": "10/12 M",
+            "color": [153, 44, 231],
+            "position": 23
+        },
+         {
+            "name": "9/12 M",
+            "color": [153, 44, 231],
+            "position": 22
+        },
+        {
+            "name": "8/12 M",
+            "color": [153, 44, 231],
+            "position": 21
+        },
+        {
+            "name": "7/12 M",
+            "color": [153, 44, 231],
+            "position": 20
+        },
+        {
+            "name": "6/12 M",
+            "color": [153, 44, 231],
+            "position": 19
+        },
+        {
+            "name": "5/12 M",
+            "color": [153, 44, 231],
+            "position": 18
+        },
+        {
+            "name": "4/12 M",
+            "color": [153, 44, 231],
+            "position": 17
+        },
+        {
+            "name": "3/12 M",
+            "color": [153, 44, 231],
+            "position": 16
+        },
+        {
+            "name": "2/12 M",
+            "color": [153, 44, 231],
+            "position": 15
+        },
+        {
+            "name": "1/12 M",
+            "color": [153, 44, 231],
+            "position": 14
+        },
+
+        {
+            "name": "12/12 H",
+            "color": [153, 44, 231],
+            "position": 13
+        },
+        {
+            "name": "11/12 H",
+            "color": [40, 242, 12],
+            "position": 12
+        },
+         {
+            "name": "10/12 H",
+            "color": [40, 242, 12],
+            "position": 11
+        },
+        {
+            "name": "9/12 H",
+            "color": [40, 242, 12],
+            "position": 10
+        },
+        {
+            "name": "8/12 H",
+            "color": [40, 242, 12],
+            "position": 9
+        },
+        {
+            "name": "7/12 H",
+            "color": [40, 242, 12],
+            "position": 8
+        },
+        {
+            "name": "6/12 H",
+            "color": [40, 242, 12],
+            "position": 7
+        },
+        {
+            "name": "5/12 H",
+            "color": [40, 242, 12],
+            "position": 6
+        },
+        {
+            "name": "4/12 H",
+            "color": [40, 242, 12],
+            "position": 5
+        },
+        {
+            "name": "3/12 H",
+            "color": [40, 242, 12],
+            "position": 4
+        },
+        {
+            "name": "2/12 H",
+            "color": [40, 242, 12],
+            "position": 3
+        },
+        {
+            "name": "1/12 H",
+            "color": [40, 242, 12],
+            "position": 2
+        }
+    ],
+
+    "track_linked": false,
+    "linked_role": {
+        "name": "Linked",
+        "color": [225, 255, 255],
+        "position": -99999
+    },
+
+    "track_guild": true,
+    "guild_role_name": "Guild",
+
+    "change_names": false
+}
